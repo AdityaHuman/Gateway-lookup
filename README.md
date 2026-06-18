@@ -35,7 +35,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ## Project Structure
 
 ```
-gateway_lookup/
+Gateway-lookup/
 ├── main.py       # CLI entry point (Typer)
 ├── scanner.py    # HTTP scanner + orchestration
 ├── detectors.py  # Signature-based detection logic
